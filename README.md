@@ -1,3 +1,3 @@
-# practice-08102025
+# practice08102025
 
 This is my first repository. 
